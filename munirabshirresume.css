@@ -1,1 +1,41 @@
 
+body {
+  
+  font-family: arial,helvetica,san-serif;
+  background: gray;
+  margin: 15%;
+
+  
+    
+}
+
+
+.workexp {
+  
+  border-top: 1px solid #dddddddd;
+  border-bottom: 1px solid #dddddd;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: rgba(0,0,0, 0.5);
+    color: #dddddd;
+  
+}
+
+.education {
+  
+  border-top: 1px solid #dddddddd;
+  border-bottom: 1px solid #dddddd;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: rgba(0,0,0, 0.5);
+    color: #dddddd;
+  font-size: 25px;
+  
+}
+
+img{
+  
+  width: 60px;
+  height: 65px
+    
+}
