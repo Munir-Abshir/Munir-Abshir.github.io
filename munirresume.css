@@ -2,7 +2,7 @@
 body {
   font-family: arial,helvetica,san-serif;
   margin: 10%;  
-  background: radial-gradient(circle,black,white);
+  background: radial-gradient(circle,black 10.5%,white 99%);
 }
 
 .workexp {
