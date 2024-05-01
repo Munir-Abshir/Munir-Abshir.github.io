@@ -2,7 +2,7 @@
 body {
   font-family: arial,helvetica,san-serif;
   margin: 10%;  
-  background: radial-gradient(circle,gray 25%,black 115%);
+  background: radial-gradient(circle,gray 27%,black 118%);
 }
 
 .workexp {
@@ -31,7 +31,7 @@ header {
 img{
   width: 160px;
   height: 165px;
-  margin: auto 450px;
+  margin: auto 600px;
 }
 
 .work{
